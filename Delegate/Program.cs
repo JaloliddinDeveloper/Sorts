@@ -16,5 +16,7 @@
 
         Operation operationMultiple = Multiple;
         Console.WriteLine(operationMultiple(8, 4));
+
+        
     }
 }

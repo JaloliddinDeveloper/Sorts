@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delega
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{0EE06F40-7ED6-438E-924A-537AAD5CCBC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic", "Dynamic\Dynamic.csproj", "{215E38FC-4391-4FD9-87D7-AD1176FE9FBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0EE06F40-7ED6-438E-924A-537AAD5CCBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EE06F40-7ED6-438E-924A-537AAD5CCBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EE06F40-7ED6-438E-924A-537AAD5CCBC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215E38FC-4391-4FD9-87D7-AD1176FE9FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215E38FC-4391-4FD9-87D7-AD1176FE9FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215E38FC-4391-4FD9-87D7-AD1176FE9FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215E38FC-4391-4FD9-87D7-AD1176FE9FBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
